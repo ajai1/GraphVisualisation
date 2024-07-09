@@ -1,0 +1,13 @@
+.edgeNodesInput {
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+    width: 200px;
+    margin-right: 50px;
+}
+
+.input_controls{
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+}
